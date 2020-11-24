@@ -3,12 +3,12 @@ entries:
   simple:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2020-11-24T16:26:02.291838+08:00"
+    created: "2020-11-24T16:37:54.806306+08:00"
     description: Helm chart with simple deployment/service template
-    digest: 162763334bc6528b1a756c834d055d93e9ec5faef30ae30e4201f8883a8909d7
+    digest: 55b267a6c0c84f901462b426f182beb4dc99904768c0ec5673b556fc5e0f6889
     name: simple
     tillerVersion: '>=2.14.3'
     urls:
-    - https://acgs771126.github.io/helm-chart/simple/simple-0.0.1.tgz
+    - https://acgs771126.github.io/simple-0.0.1.tgz
     version: 0.0.1
-generated: "2020-11-24T16:26:02.291385+08:00"
+generated: "2020-11-24T16:37:54.805406+08:00"
